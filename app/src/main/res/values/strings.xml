@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Simple Editor</string>
+    <string name="find">Find</string>
+    <string name="save">Save</string>
+    <string name="save_as">Save as…</string>
+    <string name="open">Open…</string>
+    <string name="new_file">New</string>
+    <string name="prev">Previous match</string>
+    <string name="next">Next match</string>
+    <string name="close">Close search</string>
+</resources>
