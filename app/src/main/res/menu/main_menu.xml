@@ -6,6 +6,16 @@
         android:showAsAction="ifRoom"
         android:title="@string/find" />
     <item
+        android:id="@+id/action_lock"
+        android:icon="@android:drawable/ic_lock_idle_lock"
+        android:showAsAction="ifRoom"
+        android:title="@string/lock" />
+    <item
+        android:id="@+id/action_unlock"
+        android:icon="@android:drawable/ic_lock_idle_lock"
+        android:showAsAction="ifRoom"
+        android:title="@string/unlock" />
+    <item
         android:id="@+id/action_save"
         android:icon="@android:drawable/ic_menu_save"
         android:showAsAction="ifRoom"
@@ -19,7 +29,19 @@
         android:showAsAction="never"
         android:title="@string/new_file" />
     <item
+        android:id="@+id/action_new_encrypted"
+        android:showAsAction="never"
+        android:title="@string/new_encrypted" />
+    <item
+        android:id="@+id/action_encrypt"
+        android:showAsAction="never"
+        android:title="@string/encrypt" />
+    <item
         android:id="@+id/action_save_as"
         android:showAsAction="never"
         android:title="@string/save_as" />
+    <item
+        android:id="@+id/action_change_password"
+        android:showAsAction="never"
+        android:title="@string/change_password" />
 </menu>

@@ -5,6 +5,11 @@
     <string name="save_as">Save as…</string>
     <string name="open">Open…</string>
     <string name="new_file">New</string>
+    <string name="new_encrypted">New encrypted file…</string>
+    <string name="encrypt">Encrypt this file…</string>
+    <string name="lock">Lock</string>
+    <string name="unlock">Unlock</string>
+    <string name="change_password">Change password…</string>
     <string name="prev">Previous match</string>
     <string name="next">Next match</string>
     <string name="close">Close search</string>
